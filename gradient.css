@@ -1,0 +1,10 @@
+.div{
+    height:50px;
+    background-color: rgb(255, 255, 255);
+    color:black;
+
+}
+body{
+    height:800px;
+    background-image: linear-gradient(black,gold);
+}
